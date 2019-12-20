@@ -1,4 +1,4 @@
-# Sally-Hart-Modal
+# Sally-Hart-Lightbox
 Sally Hart Lightbox is a website developed to demonstrate responsive lightboxes and modals using CSS and jQuery. 
 
 ## URL
