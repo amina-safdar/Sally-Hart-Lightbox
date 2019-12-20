@@ -1,5 +1,5 @@
 # Sally-Hart-Modal
-Sally Hart Lightbox is a website developed to demonstrate my ability to code responsive lightboxes and modals using CSS and jQuery. 
+Sally Hart Lightbox is a website developed to demonstrate responsive lightboxes and modals using CSS and jQuery. 
 
 ## URL
 
