@@ -5,7 +5,7 @@
 // (5) blue border remains until another photo is clicked
 
 $('.photos a').on('click', function openModal() {
-  var currentImage = $(this).html()
+  const currentImage = $(this).html()
   $('.modal-content').html(currentImage)
   $('.modal').fadeIn(500)
   $('.photos a').removeClass('clicked')
